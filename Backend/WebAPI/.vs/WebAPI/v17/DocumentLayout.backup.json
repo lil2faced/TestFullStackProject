@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vkame\\Documents\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0412\u0435\u0431 \u041C\u0430\u0433\u0430\u0437\u0438\u043D\\TestFullStackProject\\Backend\\WebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB1B2712-850D-40EC-82D2-2CDDC361A679}|WebAPI.csproj|c:\\users\\vkame\\documents\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0432\u0435\u0431 \u043C\u0430\u0433\u0430\u0437\u0438\u043D\\testfullstackproject\\backend\\webapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{EB1B2712-850D-40EC-82D2-2CDDC361A679}|WebAPI.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB1B2712-850D-40EC-82D2-2CDDC361A679}|WebAPI.csproj|c:\\users\\vkame\\documents\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0432\u0435\u0431 \u043C\u0430\u0433\u0430\u0437\u0438\u043D\\testfullstackproject\\backend\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB1B2712-850D-40EC-82D2-2CDDC361A679}|WebAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 731,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\vkame\\Documents\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0412\u0435\u0431 \u041C\u0430\u0433\u0430\u0437\u0438\u043D\\TestFullStackProject\\Backend\\WebAPI\\Dockerfile",
+              "RelativeDocumentMoniker": "Dockerfile",
+              "ToolTip": "C:\\Users\\vkame\\Documents\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0412\u0435\u0431 \u041C\u0430\u0433\u0430\u0437\u0438\u043D\\TestFullStackProject\\Backend\\WebAPI\\Dockerfile",
+              "RelativeToolTip": "Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-30T17:14:45.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vkame\\Documents\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0412\u0435\u0431 \u041C\u0430\u0433\u0430\u0437\u0438\u043D\\TestFullStackProject\\Backend\\WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\vkame\\Documents\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0412\u0435\u0431 \u041C\u0430\u0433\u0430\u0437\u0438\u043D\\TestFullStackProject\\Backend\\WebAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T17:12:35.515Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

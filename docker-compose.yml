@@ -1,16 +1,28 @@
 services:
+  backend:
+    build: ./Backend/WebAPI
+    container_name: backend-api
+    env_file:
+      - .env
+    ports:
+      - "8080:8080"
+      - "8081:8081"
+    depends_on:
+      - postgres
+      - redis
+      - rabbitmq
   frontend:
     build: ./Frontend
     container_name: frontend-build
   webserver:
     build: ./WebServer
     ports:
-      - "80:80"
+      - "7000:7000"  # Nginx теперь на 7000
     volumes:
-      - ./frontend:/usr/share/nginx/html  # Статика
+      - ./frontend:/usr/share/nginx/html
     depends_on:
       - frontend
-    container_name: webserver-build
+      - backend
   postgres:
     image: postgres:latest
     container_name: postgres-db
