@@ -1,0 +1,11 @@
+.env
+.dockerignore
+
+node_modules/
+bin/
+obj/
+
+*.log
+*.tmp
+
+**/data/
