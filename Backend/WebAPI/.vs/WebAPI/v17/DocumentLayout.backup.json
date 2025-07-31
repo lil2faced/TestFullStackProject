@@ -1,0 +1,550 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vkame\\Documents\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0412\u0435\u0431 \u041C\u0430\u0433\u0430\u0437\u0438\u043D\\TestFullStackProject\\Backend\\WebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB1B2712-850D-40EC-82D2-2CDDC361A679}|WebAPI.csproj|c:\\users\\vkame\\documents\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0432\u0435\u0431 \u043C\u0430\u0433\u0430\u0437\u0438\u043D\\testfullstackproject\\backend\\webapi\\infrastructure\\efcore\\apidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB1B2712-850D-40EC-82D2-2CDDC361A679}|WebAPI.csproj|solutionrelative:infrastructure\\efcore\\apidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB1B2712-850D-40EC-82D2-2CDDC361A679}|WebAPI.csproj|c:\\users\\vkame\\documents\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0432\u0435\u0431 \u043C\u0430\u0433\u0430\u0437\u0438\u043D\\testfullstackproject\\backend\\webapi\\infrastructure\\efcore\\entityconfigs\\userapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB1B2712-850D-40EC-82D2-2CDDC361A679}|WebAPI.csproj|solutionrelative:infrastructure\\efcore\\entityconfigs\\userapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB1B2712-850D-40EC-82D2-2CDDC361A679}|WebAPI.csproj|c:\\users\\vkame\\documents\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0432\u0435\u0431 \u043C\u0430\u0433\u0430\u0437\u0438\u043D\\testfullstackproject\\backend\\webapi\\infrastructure\\services\\userapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB1B2712-850D-40EC-82D2-2CDDC361A679}|WebAPI.csproj|solutionrelative:infrastructure\\services\\userapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB1B2712-850D-40EC-82D2-2CDDC361A679}|WebAPI.csproj|c:\\users\\vkame\\documents\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0432\u0435\u0431 \u043C\u0430\u0433\u0430\u0437\u0438\u043D\\testfullstackproject\\backend\\webapi\\webapi\\mapping\\defaultmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB1B2712-850D-40EC-82D2-2CDDC361A679}|WebAPI.csproj|solutionrelative:webapi\\mapping\\defaultmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB1B2712-850D-40EC-82D2-2CDDC361A679}|WebAPI.csproj|c:\\users\\vkame\\documents\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0432\u0435\u0431 \u043C\u0430\u0433\u0430\u0437\u0438\u043D\\testfullstackproject\\backend\\webapi\\infrastructure\\services\\jwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB1B2712-850D-40EC-82D2-2CDDC361A679}|WebAPI.csproj|solutionrelative:infrastructure\\services\\jwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB1B2712-850D-40EC-82D2-2CDDC361A679}|WebAPI.csproj|c:\\users\\vkame\\documents\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0432\u0435\u0431 \u043C\u0430\u0433\u0430\u0437\u0438\u043D\\testfullstackproject\\backend\\webapi\\infrastructure\\services\\apiroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB1B2712-850D-40EC-82D2-2CDDC361A679}|WebAPI.csproj|solutionrelative:infrastructure\\services\\apiroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB1B2712-850D-40EC-82D2-2CDDC361A679}|WebAPI.csproj|c:\\users\\vkame\\documents\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0432\u0435\u0431 \u043C\u0430\u0433\u0430\u0437\u0438\u043D\\testfullstackproject\\backend\\webapi\\webapi\\controllers\\apirolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB1B2712-850D-40EC-82D2-2CDDC361A679}|WebAPI.csproj|solutionrelative:webapi\\controllers\\apirolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB1B2712-850D-40EC-82D2-2CDDC361A679}|WebAPI.csproj|c:\\users\\vkame\\documents\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0432\u0435\u0431 \u043C\u0430\u0433\u0430\u0437\u0438\u043D\\testfullstackproject\\backend\\webapi\\webapi\\controllers\\userapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB1B2712-850D-40EC-82D2-2CDDC361A679}|WebAPI.csproj|solutionrelative:webapi\\controllers\\userapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB1B2712-850D-40EC-82D2-2CDDC361A679}|WebAPI.csproj|c:\\users\\vkame\\documents\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0432\u0435\u0431 \u043C\u0430\u0433\u0430\u0437\u0438\u043D\\testfullstackproject\\backend\\webapi\\core\\interfaces\\ijwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB1B2712-850D-40EC-82D2-2CDDC361A679}|WebAPI.csproj|solutionrelative:core\\interfaces\\ijwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB1B2712-850D-40EC-82D2-2CDDC361A679}|WebAPI.csproj|c:\\users\\vkame\\documents\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0432\u0435\u0431 \u043C\u0430\u0433\u0430\u0437\u0438\u043D\\testfullstackproject\\backend\\webapi\\core\\interfaces\\iuserapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB1B2712-850D-40EC-82D2-2CDDC361A679}|WebAPI.csproj|solutionrelative:core\\interfaces\\iuserapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB1B2712-850D-40EC-82D2-2CDDC361A679}|WebAPI.csproj|c:\\users\\vkame\\documents\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0432\u0435\u0431 \u043C\u0430\u0433\u0430\u0437\u0438\u043D\\testfullstackproject\\backend\\webapi\\core\\interfaces\\iuserapiroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB1B2712-850D-40EC-82D2-2CDDC361A679}|WebAPI.csproj|solutionrelative:core\\interfaces\\iuserapiroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB1B2712-850D-40EC-82D2-2CDDC361A679}|WebAPI.csproj|c:\\users\\vkame\\documents\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0432\u0435\u0431 \u043C\u0430\u0433\u0430\u0437\u0438\u043D\\testfullstackproject\\backend\\webapi\\application\\dto\\userapi\\dtoapirole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB1B2712-850D-40EC-82D2-2CDDC361A679}|WebAPI.csproj|solutionrelative:application\\dto\\userapi\\dtoapirole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB1B2712-850D-40EC-82D2-2CDDC361A679}|WebAPI.csproj|c:\\users\\vkame\\documents\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0432\u0435\u0431 \u043C\u0430\u0433\u0430\u0437\u0438\u043D\\testfullstackproject\\backend\\webapi\\application\\dto\\userapi\\dtouserapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB1B2712-850D-40EC-82D2-2CDDC361A679}|WebAPI.csproj|solutionrelative:application\\dto\\userapi\\dtouserapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB1B2712-850D-40EC-82D2-2CDDC361A679}|WebAPI.csproj|c:\\users\\vkame\\documents\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0432\u0435\u0431 \u043C\u0430\u0433\u0430\u0437\u0438\u043D\\testfullstackproject\\backend\\webapi\\core\\entities\\apirole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB1B2712-850D-40EC-82D2-2CDDC361A679}|WebAPI.csproj|solutionrelative:core\\entities\\apirole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB1B2712-850D-40EC-82D2-2CDDC361A679}|WebAPI.csproj|c:\\users\\vkame\\documents\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0432\u0435\u0431 \u043C\u0430\u0433\u0430\u0437\u0438\u043D\\testfullstackproject\\backend\\webapi\\core\\entities\\userapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB1B2712-850D-40EC-82D2-2CDDC361A679}|WebAPI.csproj|solutionrelative:core\\entities\\userapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB1B2712-850D-40EC-82D2-2CDDC361A679}|WebAPI.csproj|c:\\users\\vkame\\documents\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0432\u0435\u0431 \u043C\u0430\u0433\u0430\u0437\u0438\u043D\\testfullstackproject\\backend\\webapi\\core\\exceptions\\badrequestexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB1B2712-850D-40EC-82D2-2CDDC361A679}|WebAPI.csproj|solutionrelative:core\\exceptions\\badrequestexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB1B2712-850D-40EC-82D2-2CDDC361A679}|WebAPI.csproj|c:\\users\\vkame\\documents\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0432\u0435\u0431 \u043C\u0430\u0433\u0430\u0437\u0438\u043D\\testfullstackproject\\backend\\webapi\\application\\dto\\userapi\\dtouserapiregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB1B2712-850D-40EC-82D2-2CDDC361A679}|WebAPI.csproj|solutionrelative:application\\dto\\userapi\\dtouserapiregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB1B2712-850D-40EC-82D2-2CDDC361A679}|WebAPI.csproj|c:\\users\\vkame\\documents\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0432\u0435\u0431 \u043C\u0430\u0433\u0430\u0437\u0438\u043D\\testfullstackproject\\backend\\webapi\\application\\dto\\userapi\\dtouserapilogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB1B2712-850D-40EC-82D2-2CDDC361A679}|WebAPI.csproj|solutionrelative:application\\dto\\userapi\\dtouserapilogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB1B2712-850D-40EC-82D2-2CDDC361A679}|WebAPI.csproj|c:\\users\\vkame\\documents\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0432\u0435\u0431 \u043C\u0430\u0433\u0430\u0437\u0438\u043D\\testfullstackproject\\backend\\webapi\\infrastructure\\services\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB1B2712-850D-40EC-82D2-2CDDC361A679}|WebAPI.csproj|solutionrelative:infrastructure\\services\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB1B2712-850D-40EC-82D2-2CDDC361A679}|WebAPI.csproj|c:\\users\\vkame\\documents\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0432\u0435\u0431 \u043C\u0430\u0433\u0430\u0437\u0438\u043D\\testfullstackproject\\backend\\webapi\\webapi\\controllers\\testadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB1B2712-850D-40EC-82D2-2CDDC361A679}|WebAPI.csproj|solutionrelative:webapi\\controllers\\testadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB1B2712-850D-40EC-82D2-2CDDC361A679}|WebAPI.csproj|c:\\users\\vkame\\documents\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0432\u0435\u0431 \u043C\u0430\u0433\u0430\u0437\u0438\u043D\\testfullstackproject\\backend\\webapi\\webapi\\controllers\\pingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB1B2712-850D-40EC-82D2-2CDDC361A679}|WebAPI.csproj|solutionrelative:webapi\\controllers\\pingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB1B2712-850D-40EC-82D2-2CDDC361A679}|WebAPI.csproj|c:\\users\\vkame\\documents\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0432\u0435\u0431 \u043C\u0430\u0433\u0430\u0437\u0438\u043D\\testfullstackproject\\backend\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB1B2712-850D-40EC-82D2-2CDDC361A679}|WebAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB1B2712-850D-40EC-82D2-2CDDC361A679}|WebAPI.csproj|c:\\users\\vkame\\documents\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0432\u0435\u0431 \u043C\u0430\u0433\u0430\u0437\u0438\u043D\\testfullstackproject\\backend\\webapi\\webapi\\middlewares\\globalexceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB1B2712-850D-40EC-82D2-2CDDC361A679}|WebAPI.csproj|solutionrelative:webapi\\middlewares\\globalexceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB1B2712-850D-40EC-82D2-2CDDC361A679}|WebAPI.csproj|c:\\users\\vkame\\documents\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0432\u0435\u0431 \u043C\u0430\u0433\u0430\u0437\u0438\u043D\\testfullstackproject\\backend\\webapi\\core\\exceptions\\notautentificationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB1B2712-850D-40EC-82D2-2CDDC361A679}|WebAPI.csproj|solutionrelative:core\\exceptions\\notautentificationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB1B2712-850D-40EC-82D2-2CDDC361A679}|WebAPI.csproj|c:\\users\\vkame\\documents\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0432\u0435\u0431 \u043C\u0430\u0433\u0430\u0437\u0438\u043D\\testfullstackproject\\backend\\webapi\\core\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB1B2712-850D-40EC-82D2-2CDDC361A679}|WebAPI.csproj|solutionrelative:core\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB1B2712-850D-40EC-82D2-2CDDC361A679}|WebAPI.csproj|c:\\users\\vkame\\documents\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0432\u0435\u0431 \u043C\u0430\u0433\u0430\u0437\u0438\u043D\\testfullstackproject\\backend\\webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EB1B2712-850D-40EC-82D2-2CDDC361A679}|WebAPI.csproj|solutionrelative:webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB1B2712-850D-40EC-82D2-2CDDC361A679}|WebAPI.csproj|c:\\users\\vkame\\documents\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0432\u0435\u0431 \u043C\u0430\u0433\u0430\u0437\u0438\u043D\\testfullstackproject\\backend\\webapi\\core\\interfaces\\ipasswordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB1B2712-850D-40EC-82D2-2CDDC361A679}|WebAPI.csproj|solutionrelative:core\\interfaces\\ipasswordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB1B2712-850D-40EC-82D2-2CDDC361A679}|WebAPI.csproj|c:\\users\\vkame\\documents\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0432\u0435\u0431 \u043C\u0430\u0433\u0430\u0437\u0438\u043D\\testfullstackproject\\backend\\webapi\\webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{EB1B2712-850D-40EC-82D2-2CDDC361A679}|WebAPI.csproj|solutionrelative:webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB1B2712-850D-40EC-82D2-2CDDC361A679}|WebAPI.csproj|c:\\users\\vkame\\documents\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0432\u0435\u0431 \u043C\u0430\u0433\u0430\u0437\u0438\u043D\\testfullstackproject\\backend\\webapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{EB1B2712-850D-40EC-82D2-2CDDC361A679}|WebAPI.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB1B2712-850D-40EC-82D2-2CDDC361A679}|WebAPI.csproj|c:\\users\\vkame\\documents\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0432\u0435\u0431 \u043C\u0430\u0433\u0430\u0437\u0438\u043D\\testfullstackproject\\backend\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EB1B2712-850D-40EC-82D2-2CDDC361A679}|WebAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB1B2712-850D-40EC-82D2-2CDDC361A679}|WebAPI.csproj|c:\\users\\vkame\\documents\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0432\u0435\u0431 \u043C\u0430\u0433\u0430\u0437\u0438\u043D\\testfullstackproject\\backend\\webapi\\webapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{EB1B2712-850D-40EC-82D2-2CDDC361A679}|WebAPI.csproj|solutionrelative:webapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 731,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JWTProvider.cs",
+              "DocumentMoniker": "C:\\Users\\vkame\\Documents\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0412\u0435\u0431 \u041C\u0430\u0433\u0430\u0437\u0438\u043D\\TestFullStackProject\\Backend\\WebAPI\\Infrastructure\\Services\\JWTProvider.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\JWTProvider.cs",
+              "ToolTip": "C:\\Users\\vkame\\Documents\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0412\u0435\u0431 \u041C\u0430\u0433\u0430\u0437\u0438\u043D\\TestFullStackProject\\Backend\\WebAPI\\Infrastructure\\Services\\JWTProvider.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\JWTProvider.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwB4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T08:33:49.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApiRoleController.cs",
+              "DocumentMoniker": "C:\\Users\\vkame\\Documents\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0412\u0435\u0431 \u041C\u0430\u0433\u0430\u0437\u0438\u043D\\TestFullStackProject\\Backend\\WebAPI\\WebAPI\\Controllers\\ApiRoleController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\ApiRoleController.cs",
+              "ToolTip": "C:\\Users\\vkame\\Documents\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0412\u0435\u0431 \u041C\u0430\u0433\u0430\u0437\u0438\u043D\\TestFullStackProject\\Backend\\WebAPI\\WebAPI\\Controllers\\ApiRoleController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\ApiRoleController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwAcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T09:03:59.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApiRoleService.cs",
+              "DocumentMoniker": "C:\\Users\\vkame\\Documents\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0412\u0435\u0431 \u041C\u0430\u0433\u0430\u0437\u0438\u043D\\TestFullStackProject\\Backend\\WebAPI\\Infrastructure\\Services\\ApiRoleService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\ApiRoleService.cs",
+              "ToolTip": "C:\\Users\\vkame\\Documents\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0412\u0435\u0431 \u041C\u0430\u0433\u0430\u0437\u0438\u043D\\TestFullStackProject\\Backend\\WebAPI\\Infrastructure\\Services\\ApiRoleService.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\ApiRoleService.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAA6wC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T08:44:51.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DefaultMappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\vkame\\Documents\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0412\u0435\u0431 \u041C\u0430\u0433\u0430\u0437\u0438\u043D\\TestFullStackProject\\Backend\\WebAPI\\WebAPI\\Mapping\\DefaultMappingProfile.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Mapping\\DefaultMappingProfile.cs",
+              "ToolTip": "C:\\Users\\vkame\\Documents\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0412\u0435\u0431 \u041C\u0430\u0433\u0430\u0437\u0438\u043D\\TestFullStackProject\\Backend\\WebAPI\\WebAPI\\Mapping\\DefaultMappingProfile.cs",
+              "RelativeToolTip": "WebAPI\\Mapping\\DefaultMappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T08:14:07.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserApiService.cs",
+              "DocumentMoniker": "C:\\Users\\vkame\\Documents\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0412\u0435\u0431 \u041C\u0430\u0433\u0430\u0437\u0438\u043D\\TestFullStackProject\\Backend\\WebAPI\\Infrastructure\\Services\\UserApiService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\UserApiService.cs",
+              "ToolTip": "C:\\Users\\vkame\\Documents\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0412\u0435\u0431 \u041C\u0430\u0433\u0430\u0437\u0438\u043D\\TestFullStackProject\\Backend\\WebAPI\\Infrastructure\\Services\\UserApiService.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\UserApiService.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAswEkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T08:52:54.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserAPIConfig.cs",
+              "DocumentMoniker": "C:\\Users\\vkame\\Documents\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0412\u0435\u0431 \u041C\u0430\u0433\u0430\u0437\u0438\u043D\\TestFullStackProject\\Backend\\WebAPI\\Infrastructure\\EfCore\\EntityConfigs\\UserAPIConfig.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\EfCore\\EntityConfigs\\UserAPIConfig.cs",
+              "ToolTip": "C:\\Users\\vkame\\Documents\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0412\u0435\u0431 \u041C\u0430\u0433\u0430\u0437\u0438\u043D\\TestFullStackProject\\Backend\\WebAPI\\Infrastructure\\EfCore\\EntityConfigs\\UserAPIConfig.cs",
+              "RelativeToolTip": "Infrastructure\\EfCore\\EntityConfigs\\UserAPIConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T08:22:20.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApiDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\vkame\\Documents\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0412\u0435\u0431 \u041C\u0430\u0433\u0430\u0437\u0438\u043D\\TestFullStackProject\\Backend\\WebAPI\\Infrastructure\\EfCore\\ApiDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\EfCore\\ApiDbContext.cs",
+              "ToolTip": "C:\\Users\\vkame\\Documents\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0412\u0435\u0431 \u041C\u0430\u0433\u0430\u0437\u0438\u043D\\TestFullStackProject\\Backend\\WebAPI\\Infrastructure\\EfCore\\ApiDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\EfCore\\ApiDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T08:17:54.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserApiController.cs",
+              "DocumentMoniker": "C:\\Users\\vkame\\Documents\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0412\u0435\u0431 \u041C\u0430\u0433\u0430\u0437\u0438\u043D\\TestFullStackProject\\Backend\\WebAPI\\WebAPI\\Controllers\\UserApiController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\UserApiController.cs",
+              "ToolTip": "C:\\Users\\vkame\\Documents\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0412\u0435\u0431 \u041C\u0430\u0433\u0430\u0437\u0438\u043D\\TestFullStackProject\\Backend\\WebAPI\\WebAPI\\Controllers\\UserApiController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\UserApiController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T09:01:44.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IJWTProvider.cs",
+              "DocumentMoniker": "C:\\Users\\vkame\\Documents\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0412\u0435\u0431 \u041C\u0430\u0433\u0430\u0437\u0438\u043D\\TestFullStackProject\\Backend\\WebAPI\\Core\\Interfaces\\IJWTProvider.cs",
+              "RelativeDocumentMoniker": "Core\\Interfaces\\IJWTProvider.cs",
+              "ToolTip": "C:\\Users\\vkame\\Documents\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0412\u0435\u0431 \u041C\u0430\u0433\u0430\u0437\u0438\u043D\\TestFullStackProject\\Backend\\WebAPI\\Core\\Interfaces\\IJWTProvider.cs",
+              "RelativeToolTip": "Core\\Interfaces\\IJWTProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T08:31:57.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IUserApiService.cs",
+              "DocumentMoniker": "C:\\Users\\vkame\\Documents\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0412\u0435\u0431 \u041C\u0430\u0433\u0430\u0437\u0438\u043D\\TestFullStackProject\\Backend\\WebAPI\\Core\\Interfaces\\IUserApiService.cs",
+              "RelativeDocumentMoniker": "Core\\Interfaces\\IUserApiService.cs",
+              "ToolTip": "C:\\Users\\vkame\\Documents\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0412\u0435\u0431 \u041C\u0430\u0433\u0430\u0437\u0438\u043D\\TestFullStackProject\\Backend\\WebAPI\\Core\\Interfaces\\IUserApiService.cs",
+              "RelativeToolTip": "Core\\Interfaces\\IUserApiService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T08:43:45.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IUserApiRoleService.cs",
+              "DocumentMoniker": "C:\\Users\\vkame\\Documents\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0412\u0435\u0431 \u041C\u0430\u0433\u0430\u0437\u0438\u043D\\TestFullStackProject\\Backend\\WebAPI\\Core\\Interfaces\\IUserApiRoleService.cs",
+              "RelativeDocumentMoniker": "Core\\Interfaces\\IUserApiRoleService.cs",
+              "ToolTip": "C:\\Users\\vkame\\Documents\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0412\u0435\u0431 \u041C\u0430\u0433\u0430\u0437\u0438\u043D\\TestFullStackProject\\Backend\\WebAPI\\Core\\Interfaces\\IUserApiRoleService.cs",
+              "RelativeToolTip": "Core\\Interfaces\\IUserApiRoleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T08:42:04.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DTOApiRole.cs",
+              "DocumentMoniker": "C:\\Users\\vkame\\Documents\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0412\u0435\u0431 \u041C\u0430\u0433\u0430\u0437\u0438\u043D\\TestFullStackProject\\Backend\\WebAPI\\Application\\DTO\\UserAPI\\DTOApiRole.cs",
+              "RelativeDocumentMoniker": "Application\\DTO\\UserAPI\\DTOApiRole.cs",
+              "ToolTip": "C:\\Users\\vkame\\Documents\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0412\u0435\u0431 \u041C\u0430\u0433\u0430\u0437\u0438\u043D\\TestFullStackProject\\Backend\\WebAPI\\Application\\DTO\\UserAPI\\DTOApiRole.cs",
+              "RelativeToolTip": "Application\\DTO\\UserAPI\\DTOApiRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T08:13:01.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DTOUserApi.cs",
+              "DocumentMoniker": "C:\\Users\\vkame\\Documents\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0412\u0435\u0431 \u041C\u0430\u0433\u0430\u0437\u0438\u043D\\TestFullStackProject\\Backend\\WebAPI\\Application\\DTO\\UserAPI\\DTOUserApi.cs",
+              "RelativeDocumentMoniker": "Application\\DTO\\UserAPI\\DTOUserApi.cs",
+              "ToolTip": "C:\\Users\\vkame\\Documents\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0412\u0435\u0431 \u041C\u0430\u0433\u0430\u0437\u0438\u043D\\TestFullStackProject\\Backend\\WebAPI\\Application\\DTO\\UserAPI\\DTOUserApi.cs",
+              "RelativeToolTip": "Application\\DTO\\UserAPI\\DTOUserApi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T08:05:28.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApiRole.cs",
+              "DocumentMoniker": "C:\\Users\\vkame\\Documents\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0412\u0435\u0431 \u041C\u0430\u0433\u0430\u0437\u0438\u043D\\TestFullStackProject\\Backend\\WebAPI\\Core\\Entities\\ApiRole.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\ApiRole.cs",
+              "ToolTip": "C:\\Users\\vkame\\Documents\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0412\u0435\u0431 \u041C\u0430\u0433\u0430\u0437\u0438\u043D\\TestFullStackProject\\Backend\\WebAPI\\Core\\Entities\\ApiRole.cs",
+              "RelativeToolTip": "Core\\Entities\\ApiRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T08:08:27.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserApi.cs",
+              "DocumentMoniker": "C:\\Users\\vkame\\Documents\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0412\u0435\u0431 \u041C\u0430\u0433\u0430\u0437\u0438\u043D\\TestFullStackProject\\Backend\\WebAPI\\Core\\Entities\\UserApi.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\UserApi.cs",
+              "ToolTip": "C:\\Users\\vkame\\Documents\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0412\u0435\u0431 \u041C\u0430\u0433\u0430\u0437\u0438\u043D\\TestFullStackProject\\Backend\\WebAPI\\Core\\Entities\\UserApi.cs",
+              "RelativeToolTip": "Core\\Entities\\UserApi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T07:59:32.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BadRequestException.cs",
+              "DocumentMoniker": "C:\\Users\\vkame\\Documents\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0412\u0435\u0431 \u041C\u0430\u0433\u0430\u0437\u0438\u043D\\TestFullStackProject\\Backend\\WebAPI\\Core\\Exceptions\\BadRequestException.cs",
+              "RelativeDocumentMoniker": "Core\\Exceptions\\BadRequestException.cs",
+              "ToolTip": "C:\\Users\\vkame\\Documents\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0412\u0435\u0431 \u041C\u0430\u0433\u0430\u0437\u0438\u043D\\TestFullStackProject\\Backend\\WebAPI\\Core\\Exceptions\\BadRequestException.cs",
+              "RelativeToolTip": "Core\\Exceptions\\BadRequestException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T08:48:53.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DTOUserApiRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\vkame\\Documents\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0412\u0435\u0431 \u041C\u0430\u0433\u0430\u0437\u0438\u043D\\TestFullStackProject\\Backend\\WebAPI\\Application\\DTO\\UserAPI\\DTOUserApiRegistration.cs",
+              "RelativeDocumentMoniker": "Application\\DTO\\UserAPI\\DTOUserApiRegistration.cs",
+              "ToolTip": "C:\\Users\\vkame\\Documents\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0412\u0435\u0431 \u041C\u0430\u0433\u0430\u0437\u0438\u043D\\TestFullStackProject\\Backend\\WebAPI\\Application\\DTO\\UserAPI\\DTOUserApiRegistration.cs",
+              "RelativeToolTip": "Application\\DTO\\UserAPI\\DTOUserApiRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T08:06:51.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DTOUserApiLogin.cs",
+              "DocumentMoniker": "C:\\Users\\vkame\\Documents\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0412\u0435\u0431 \u041C\u0430\u0433\u0430\u0437\u0438\u043D\\TestFullStackProject\\Backend\\WebAPI\\Application\\DTO\\UserAPI\\DTOUserApiLogin.cs",
+              "RelativeDocumentMoniker": "Application\\DTO\\UserAPI\\DTOUserApiLogin.cs",
+              "ToolTip": "C:\\Users\\vkame\\Documents\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0412\u0435\u0431 \u041C\u0430\u0433\u0430\u0437\u0438\u043D\\TestFullStackProject\\Backend\\WebAPI\\Application\\DTO\\UserAPI\\DTOUserApiLogin.cs",
+              "RelativeToolTip": "Application\\DTO\\UserAPI\\DTOUserApiLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T08:07:52.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PasswordHasher.cs",
+              "DocumentMoniker": "C:\\Users\\vkame\\Documents\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0412\u0435\u0431 \u041C\u0430\u0433\u0430\u0437\u0438\u043D\\TestFullStackProject\\Backend\\WebAPI\\Infrastructure\\Services\\PasswordHasher.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Services\\PasswordHasher.cs",
+              "ToolTip": "C:\\Users\\vkame\\Documents\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0412\u0435\u0431 \u041C\u0430\u0433\u0430\u0437\u0438\u043D\\TestFullStackProject\\Backend\\WebAPI\\Infrastructure\\Services\\PasswordHasher.cs",
+              "RelativeToolTip": "Infrastructure\\Services\\PasswordHasher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T08:37:38.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TestAdminController.cs",
+              "DocumentMoniker": "C:\\Users\\vkame\\Documents\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0412\u0435\u0431 \u041C\u0430\u0433\u0430\u0437\u0438\u043D\\TestFullStackProject\\Backend\\WebAPI\\WebAPI\\Controllers\\TestAdminController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\TestAdminController.cs",
+              "ToolTip": "C:\\Users\\vkame\\Documents\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0412\u0435\u0431 \u041C\u0430\u0433\u0430\u0437\u0438\u043D\\TestFullStackProject\\Backend\\WebAPI\\WebAPI\\Controllers\\TestAdminController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\TestAdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T09:05:41.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PingController.cs",
+              "DocumentMoniker": "C:\\Users\\vkame\\Documents\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0412\u0435\u0431 \u041C\u0430\u0433\u0430\u0437\u0438\u043D\\TestFullStackProject\\Backend\\WebAPI\\WebAPI\\Controllers\\PingController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\PingController.cs",
+              "ToolTip": "C:\\Users\\vkame\\Documents\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0412\u0435\u0431 \u041C\u0430\u0433\u0430\u0437\u0438\u043D\\TestFullStackProject\\Backend\\WebAPI\\WebAPI\\Controllers\\PingController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\PingController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T07:47:53.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vkame\\Documents\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0412\u0435\u0431 \u041C\u0430\u0433\u0430\u0437\u0438\u043D\\TestFullStackProject\\Backend\\WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\vkame\\Documents\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0412\u0435\u0431 \u041C\u0430\u0433\u0430\u0437\u0438\u043D\\TestFullStackProject\\Backend\\WebAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAUwE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T17:12:35.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "GlobalExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\vkame\\Documents\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0412\u0435\u0431 \u041C\u0430\u0433\u0430\u0437\u0438\u043D\\TestFullStackProject\\Backend\\WebAPI\\WebAPI\\Middlewares\\GlobalExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Middlewares\\GlobalExceptionMiddleware.cs",
+              "ToolTip": "C:\\Users\\vkame\\Documents\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0412\u0435\u0431 \u041C\u0430\u0433\u0430\u0437\u0438\u043D\\TestFullStackProject\\Backend\\WebAPI\\WebAPI\\Middlewares\\GlobalExceptionMiddleware.cs",
+              "RelativeToolTip": "WebAPI\\Middlewares\\GlobalExceptionMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T07:34:47.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "NotAutentificationException.cs",
+              "DocumentMoniker": "C:\\Users\\vkame\\Documents\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0412\u0435\u0431 \u041C\u0430\u0433\u0430\u0437\u0438\u043D\\TestFullStackProject\\Backend\\WebAPI\\Core\\Exceptions\\NotAutentificationException.cs",
+              "RelativeDocumentMoniker": "Core\\Exceptions\\NotAutentificationException.cs",
+              "ToolTip": "C:\\Users\\vkame\\Documents\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0412\u0435\u0431 \u041C\u0430\u0433\u0430\u0437\u0438\u043D\\TestFullStackProject\\Backend\\WebAPI\\Core\\Exceptions\\NotAutentificationException.cs",
+              "RelativeToolTip": "Core\\Exceptions\\NotAutentificationException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T07:45:18.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "NotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\vkame\\Documents\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0412\u0435\u0431 \u041C\u0430\u0433\u0430\u0437\u0438\u043D\\TestFullStackProject\\Backend\\WebAPI\\Core\\Exceptions\\NotFoundException.cs",
+              "RelativeDocumentMoniker": "Core\\Exceptions\\NotFoundException.cs",
+              "ToolTip": "C:\\Users\\vkame\\Documents\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0412\u0435\u0431 \u041C\u0430\u0433\u0430\u0437\u0438\u043D\\TestFullStackProject\\Backend\\WebAPI\\Core\\Exceptions\\NotFoundException.cs",
+              "RelativeToolTip": "Core\\Exceptions\\NotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T07:41:32.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IPasswordHasher.cs",
+              "DocumentMoniker": "C:\\Users\\vkame\\Documents\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0412\u0435\u0431 \u041C\u0430\u0433\u0430\u0437\u0438\u043D\\TestFullStackProject\\Backend\\WebAPI\\Core\\Interfaces\\IPasswordHasher.cs",
+              "RelativeDocumentMoniker": "Core\\Interfaces\\IPasswordHasher.cs",
+              "ToolTip": "C:\\Users\\vkame\\Documents\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0412\u0435\u0431 \u041C\u0430\u0433\u0430\u0437\u0438\u043D\\TestFullStackProject\\Backend\\WebAPI\\Core\\Interfaces\\IPasswordHasher.cs",
+              "RelativeToolTip": "Core\\Interfaces\\IPasswordHasher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T08:37:06.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "WebAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\vkame\\Documents\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0412\u0435\u0431 \u041C\u0430\u0433\u0430\u0437\u0438\u043D\\TestFullStackProject\\Backend\\WebAPI\\WebAPI.csproj",
+              "RelativeDocumentMoniker": "WebAPI.csproj",
+              "ToolTip": "C:\\Users\\vkame\\Documents\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0412\u0435\u0431 \u041C\u0430\u0433\u0430\u0437\u0438\u043D\\TestFullStackProject\\Backend\\WebAPI\\WebAPI.csproj",
+              "RelativeToolTip": "WebAPI.csproj",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-30T17:44:23.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "WebAPI.http",
+              "DocumentMoniker": "C:\\Users\\vkame\\Documents\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0412\u0435\u0431 \u041C\u0430\u0433\u0430\u0437\u0438\u043D\\TestFullStackProject\\Backend\\WebAPI\\WebAPI.http",
+              "RelativeDocumentMoniker": "WebAPI.http",
+              "ToolTip": "C:\\Users\\vkame\\Documents\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0412\u0435\u0431 \u041C\u0430\u0433\u0430\u0437\u0438\u043D\\TestFullStackProject\\Backend\\WebAPI\\WebAPI.http",
+              "RelativeToolTip": "WebAPI.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-07-30T17:44:39.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\vkame\\Documents\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0412\u0435\u0431 \u041C\u0430\u0433\u0430\u0437\u0438\u043D\\TestFullStackProject\\Backend\\WebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\vkame\\Documents\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0412\u0435\u0431 \u041C\u0430\u0433\u0430\u0437\u0438\u043D\\TestFullStackProject\\Backend\\WebAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-30T17:27:45.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\vkame\\Documents\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0412\u0435\u0431 \u041C\u0430\u0433\u0430\u0437\u0438\u043D\\TestFullStackProject\\Backend\\WebAPI\\Dockerfile",
+              "RelativeDocumentMoniker": "Dockerfile",
+              "ToolTip": "C:\\Users\\vkame\\Documents\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0412\u0435\u0431 \u041C\u0430\u0433\u0430\u0437\u0438\u043D\\TestFullStackProject\\Backend\\WebAPI\\Dockerfile",
+              "RelativeToolTip": "Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-30T17:14:45.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "WebAPI",
+              "DocumentMoniker": "C:\\Users\\vkame\\Documents\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0412\u0435\u0431 \u041C\u0430\u0433\u0430\u0437\u0438\u043D\\TestFullStackProject\\Backend\\WebAPI\\WebAPI.csproj",
+              "RelativeDocumentMoniker": "WebAPI.csproj",
+              "ToolTip": "C:\\Users\\vkame\\Documents\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\\u0412\u0435\u0431 \u041C\u0430\u0433\u0430\u0437\u0438\u043D\\TestFullStackProject\\Backend\\WebAPI\\WebAPI.csproj",
+              "RelativeToolTip": "WebAPI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-30T17:44:30.698Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
