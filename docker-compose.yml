@@ -8,7 +8,7 @@ services:
       - "8080:8080"
       - "8081:8081"
     depends_on:
-      - postgres
+      - db
       - redis
       - rabbitmq
   frontend:
@@ -23,17 +23,17 @@ services:
     depends_on:
       - frontend
       - backend
-  postgres:
+  db:
     image: postgres:latest
-    container_name: postgres-db
-    env_file:
-      - .env  
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${POSTGRES_USER} -d ${POSTGRES_DB}"]
+      interval: 5s
+      timeout: 5s
+      retries: 5
     environment:
       POSTGRES_DB: ${POSTGRES_DB}
       POSTGRES_USER: ${POSTGRES_USER}
       POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}
-    volumes:
-      - postgres_data:/var/lib/postgresql/data
   redis:
     image: redis:latest
     container_name: redis-cache
