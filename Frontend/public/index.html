@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>API Interface</title>
+    <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+    <div class="container">
+        <div class="auth-section">
+            <h1>API Dashboard</h1>
+            
+            <!-- Login Form -->
+            <div class="form-card">
+                <h2>Login</h2>
+                <input type="text" id="login-name" placeholder="Username">
+                <input type="password" id="login-password" placeholder="Password">
+                <button onclick="login()">Login</button>
+            </div>
+            
+            <!-- Register Form -->
+            <div class="form-card">
+                <h2>Register</h2>
+                <input type="text" id="register-name" placeholder="Username">
+                <input type="password" id="register-password" placeholder="Password">
+                <select id="register-role">
+                    <option value="User">User</option>
+                    <option value="Admin">Admin</option>
+                </select>
+                <button onclick="register()">Register</button>
+            </div>
+            
+            <!-- API Testing -->
+            <div class="form-card">
+                <h2>API Tests</h2>
+                <button onclick="ping()">Test /ping</button>
+                <button onclick="testAdmin()">Test /TestAdmin</button>
+            </div>
+            
+            <div id="response" class="response-box"></div>
+        </div>
+    </div>
+    <script src="/script.js"></script>
+</body>
+</html>

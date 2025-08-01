@@ -12,12 +12,17 @@ services:
       - redis
       - rabbitmq
   frontend:
-    build: ./Frontend
-    container_name: frontend-build
+    build: ./frontend
+    ports:
+      - "3000:80"
+    depends_on:
+      - backend
+    environment:
+      - NODE_ENV=production
   webserver:
     build: ./WebServer
     ports:
-      - "7000:7000"  # Nginx теперь на 7000
+      - "80:80"  # Nginx теперь на 7000
     volumes:
       - ./frontend:/usr/share/nginx/html
     depends_on:
